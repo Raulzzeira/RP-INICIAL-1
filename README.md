@@ -1,6 +1,9 @@
 # RP-INICIAL-1
 REPOSITÓRIO PARA PROJETOS INICIAIS (AULAS SENAI)
+
+
 Principais Comandos:
+
 
 git init = Criaaestrutura inicial do repositório Git no computador local.
 git status = Verificaostatus das alterações realizadas no repositório.
